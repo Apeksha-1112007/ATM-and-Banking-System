@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240012
+# Name: APEKSHA H K
+# Date: 21.04.2026
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![alt text](<Screenshot 2026-05-26 102235.png>)
 
 
 
@@ -69,6 +70,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![alt text](<Screenshot 2026-05-26 102253.png>)
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,6 +79,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+![alt text](<Screenshot 2026-05-26 102312.png>)
 
 
 
@@ -88,7 +93,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
+![alt text](<Screenshot 2026-05-26 102326.png>)
 
 
 
@@ -107,6 +112,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![alt text](<Screenshot 2026-05-26 102339.png>)
 
 
 
@@ -128,7 +134,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+![alt text](<Screenshot 2026-05-26 102427.png>)
 
 
 
